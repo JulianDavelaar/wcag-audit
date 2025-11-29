@@ -1,3 +1,7 @@
+Het doen van voldoende goed accesibility tests op je website is enorm belangrijk, dit zorgt er namelijk voor dat mensen met beperkingen jouw website ook goed kunnen gebruiken.
+er zijn automatische maar ook handmatige accessibility test, het is belangrijk deze allebij zorgvuldig uit te voeren en de nodige aanpassingen te maken zodat elke gebruiker jouw website kan benutten.
+
+
 # WCAG Audit 
 
 Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
